@@ -1,0 +1,4 @@
+CREATE TABLE subject
+(
+    id BIGINT PRIMARY KEY
+);
